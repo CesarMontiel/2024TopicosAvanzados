@@ -37,4 +37,8 @@ public class Principal {
         return true;
     }
 
+    public static void mifuncion2(){
+        System.out.println("Mi Funcion 2");
+    } 
+
 }
