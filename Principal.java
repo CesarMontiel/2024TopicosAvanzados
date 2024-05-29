@@ -4,4 +4,8 @@ public class Principal {
         funciones.cambiarValoresVariales(100, 5);
         funciones.isPalindromo("hola");
     }
+
+    public static void nohacenada(){
+    }
+
 }
