@@ -40,5 +40,7 @@ public class Principal {
     public static void mifuncion2(){
         System.out.println("Mi Funcion 2");
     } 
+    public static void nohacenada(){
+    }
 
 }
